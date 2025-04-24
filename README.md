@@ -24,7 +24,7 @@ This is a simple, responsive web page built using **HTML** and **CSS**. It highl
 
 ## 🔗 Live Demo
 
-👉 [View the Live Page](https://yourusername.github.io/grace-hopper-tribute)
+👉 [View the Live Page](https://pada-m.github.io/grace-hopper-tribute/)
 
 ## 📁 How to Use
 
